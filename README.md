@@ -8,6 +8,8 @@ Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embr
 ###  :speech_balloon: Let's talk!
 
 [<img align="left" alt="JulianaAkemi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<!--
 [<img align="left" alt="JulianaAkemi | My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
@@ -18,7 +20,7 @@ Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embr
 [linkedin]: https://www.linkedin.com/in/juliana-akemi-k-a676b839/
 [website]:
 
-<!--
+
 **JulianaAkemi/JulianaAkemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
