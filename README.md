@@ -1,4 +1,5 @@
-### Hi!  I'm Juliana Akemi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi!  I'm Juliana Akemi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+---
 
 And I'm looking for opportunities in development. 😄
 
@@ -8,8 +9,7 @@ Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embr
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAkemi&layout=compact)](https://github.com/JulianaAkemi/github-readme-stats)
 
-###  :speech_balloon: Let's talk!
-[LinkedIn](https://www.linkedin.com/in/juliana-akemi-k-a676b839/)
+###  :speech_balloon: Let's talk! [LinkedIn](https://www.linkedin.com/in/juliana-akemi-k-a676b839/)
 
 
 <!--
