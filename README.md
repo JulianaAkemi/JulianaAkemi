@@ -8,6 +8,7 @@ Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embr
 ###  :speech_balloon: Let's talk!
 
 [<img align="left" alt="JulianaAkemi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: https://www.linkedin.com/in/juliana-akemi-k-a676b839/
 
 <!--
 [<img align="left" alt="JulianaAkemi | My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
@@ -17,7 +18,7 @@ Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embr
 
 
 
-[linkedin]: https://www.linkedin.com/in/juliana-akemi-k-a676b839/
+
 [website]:
 
 
