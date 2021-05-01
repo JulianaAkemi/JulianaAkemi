@@ -9,8 +9,12 @@ Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embr
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAkemi&layout=compact)](https://github.com/JulianaAkemi/github-readme-stats)
 
-###  :speech_balloon: Let's talk! [LinkedIn](https://www.linkedin.com/in/juliana-akemi-k-a676b839/)
+###  :speech_balloon: Let's talk!
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-akemi-k-a676b839/)](https://www.linkedin.com/in/juliana-akemi-k-a676b839/) 
 
+[![Gmail Badge](https://img.shields.io/badge/-contact@juliana.akemi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianaakkemi@gmail.com)](mailto:julianaakkemi@gmail.com)
+
+<a href="https://www.instagram.com/jay_akemi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <!--
 [<img align="left" alt="JulianaAkemi | My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
