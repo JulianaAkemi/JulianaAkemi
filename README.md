@@ -14,6 +14,9 @@ Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embr
 
 [![Gmail Badge](https://img.shields.io/badge/-contact@juliana.akemi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianaakkemi@gmail.com)](mailto:julianaakkemi@gmail.com)
 
+[![Gmail Badge](https://img.shields.io/badge/-contato@daianesousa.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:daisousa.c@gmail.com)](mailto:daisousa.c@gmail.com)
+
+
 <a href="https://www.instagram.com/jay_akemi/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 
 <!--
