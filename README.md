@@ -3,7 +3,7 @@
 
 And I'm looking for opportunities in development. 😄
 
-Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embraer, I help business bring digital products to their fullest potential. :star2: Wherever I go, the IT department is sure to have better communication and graphic design.
+Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embraer, I help business bring digital products to their fullest potential. :star2: Wherever I go, the IT department is sure to have better digital experiences.
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<JulianaAkemi>&theme=<react>" />
 -->
