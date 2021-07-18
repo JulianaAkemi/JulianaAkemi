@@ -1,9 +1,6 @@
 ## Hi!  I'm Juliana Akemi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
-And I'm looking for opportunities in development. 😄
-
-Currently working as a Marketing Analyst and UI/UX Designer at GSW Software/Embraer, I help business bring digital products to their fullest potential. :star2: Wherever I go, the IT department is sure to have better digital experiences.
+Currently working as a Front-end Engineer at POSSIBLE, I help business bring digital products to their fullest potential. :star2: Wherever I go, the IT department is sure to have better digital experiences.
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<JulianaAkemi>&theme=<react>" />
 -->
