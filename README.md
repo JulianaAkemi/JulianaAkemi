@@ -1,6 +1,6 @@
 ## Hi!  I'm Juliana Akemi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Currently working as a Front-end Engineer at Wunderman Thompson Technology Brasil, I help business bring digital products to their fullest potential. :star2: Wherever I go, the IT department is sure to have better digital experiences.
+As a Frontend Engineer I help business bring digital products to their fullest potential and am enthusiastic about how collaborative work can produce amazing results that single individuals can't. :star2: Wherever I go, the IT department is sure to develop better digital experiences.
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<JulianaAkemi>&theme=<react>" />
 -->
