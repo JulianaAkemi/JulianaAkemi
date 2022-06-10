@@ -1,4 +1,4 @@
-## Hi!  I'm Juliana Akemi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi!  I'm Juliana Akemi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px">
 
 As a Frontend Engineer I help business bring digital products to their fullest potential and am enthusiastic about how collaborative work can produce amazing results that single individuals can't. :star2: Wherever I go, the IT department is sure to develop better digital experiences.
 <!--
