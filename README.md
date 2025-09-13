@@ -1,35 +1,12 @@
-## Hi!  I'm Juliana Akemi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px">
+## Hi!  I'm Juliana Akemi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px"> a Frontend Engineer from Brazil.
 
-As a Frontend Engineer I help business bring digital products to their fullest potential and am enthusiastic about how collaborative work can produce amazing results that single individuals can't. :star2: Wherever I go, the IT department is sure to develop better digital experiences.
-<!--
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<JulianaAkemi>&theme=<react>" />
--->
+For the past 4+ years, I’ve been building web applications with React, JavaScript, TypeScript and Redux, from high-traffic airline websites, public servants administration to e-commerce platforms and enterprise systems. Along the way, I’ve also worked a lot with SASS, Material UI, REST APIs, state management and design systems.
+
+I really enjoy taking a design from Figma and making it come alive in code, and I’m always excited about improving user experience, accessibility and performance.
+
+My goal is to join an international team as a Frontend Developer (React) and keep growing while contributing to meaningful and impactful projects.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaAkemi&layout=compact&langs_count=8)](https://github.com/JulianaAkemi/github-readme-stats)
 
 ###  :speech_balloon: Let's talk!
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-akemi-k-a676b839/)](https://www.linkedin.com/in/juliana-akemi-k-a676b839/)  [![Gmail Badge](https://img.shields.io/badge/-contact@juliana.akemi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianaakkemi@gmail.com)](mailto:julianaakkemi@gmail.com)
-<!--
-[<img align="left" alt="JulianaAkemi | My Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
-
-
-
-
-
-
-
-[website]:
-
-
-**JulianaAkemi/JulianaAkemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juliana-akemi-k-a676b839/)]([https://www.linkedin.com/in/juliana-akemi-k-a676b839/](https://www.linkedin.com/in/juliana-akemi-frontend-react/))  [![Gmail Badge](https://img.shields.io/badge/-contact@juliana.akemi-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:julianaakkemi@gmail.com)](mailto:julianaakkemi@gmail.com)
